@@ -14,13 +14,13 @@
 * Books ✅ с помощью **Teemley**
 * Comic ✅
 * Computer ✅ Перевод большинства файлов взят у **Crazylife (Павел)**
-* Dialog ✅ Вероятно требуется редакция
+* Dialog ✅ Вероятно требуется вычитка
 * Interaction ✅
 * Intro ✅
 * Npc ✅
 * Options ✅
 * Programs ✅
-* Quests ✅
+* Quests ✅ Вероятно нужна вычитка
 * Radio ✅
 * Time ✅
 * UI ✅
